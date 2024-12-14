@@ -1,2 +1,11 @@
+# *.js
+
+*.txt
+!names.txt
+
+/src/main.py
+
+content.md
+
 secure
 /advert.html
